@@ -24,6 +24,8 @@
 #include "config.h"
 
 #include <stdio.h>
+#include <unistd.h>
+#include <sys/types.h>
 #include <stdbool.h>
 
 #include "util/util_errors.h"
